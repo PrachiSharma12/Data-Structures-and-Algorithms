@@ -80,7 +80,7 @@
 <h2 align="center">Tree Algorithms</h2>
 
 1. [Traversals](./Algorithms/TREES/Traversals)
-2. [LCA](./Algorithms/TREES/LCA)
+2. [LCA](./Algorithms/TREES/LCA/lowest_common_ancestor.cpp)
 3. [BST](./Algorithms/TREES/BST)
 
 <h2 align="center">Searching Algorithms</h2>
